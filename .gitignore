@@ -1,0 +1,37 @@
+# Raw and controlled data
+03_data_raw/
+11_data_requests/controlled_data/
+
+# Large/intermediate objects
+*.h5ad
+*.h5
+*.loom
+*.rds
+*.RData
+*.parquet
+*.feather
+*.fst
+*.qs
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Environments and caches
+.venv/
+env/
+renv/library/
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
+
+# Temporary outputs and logs
+*.tmp
+*.temp
+*.log
+~$*
+.DS_Store
+Thumbs.db

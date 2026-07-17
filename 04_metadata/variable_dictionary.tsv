@@ -1,0 +1,10 @@
+canonical_variable	definition	unit_or_encoding	source_variable	study_id	availability	quality_notes
+participant_id	De-identified participant key	string			unknown	
+age_at_vaccination	Age at vaccine administration	years			unknown	
+sex	Reported biological sex or study-recorded sex	categorical			unknown	
+bmi	Body mass index	kg/m2			unknown	
+weight	Body weight	kg			unknown	
+vaccine_type	Bivalent, quadrivalent, nonavalent, or comparator	categorical			unknown	
+dose_number	Dose represented by sample	integer			unknown	
+time_from_vaccination	Time relative to vaccination	days			unknown	
+antibody_response	Study-specific antibody endpoint	study-specific			unknown	

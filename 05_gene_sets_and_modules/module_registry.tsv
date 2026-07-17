@@ -1,0 +1,11 @@
+module_id	module_name	biological_layer	priority	gene_set_source	version	mechanistic_question	status
+UPTAKE_CLATHRIN	Clathrin-mediated antigen uptake	trafficking	primary	curated	v0.1	Is receptor/cargo internalization remodeled after vaccination?	draft
+ENDOSOME_EARLY	Early-endosomal sorting	trafficking	primary	curated	v0.1	Does early sorting alter antigen retention, recycling, or maturation?	draft
+ENDOLYSOSOME	Late-endosome and lysosome maturation	trafficking	primary	curated	v0.1	Is antigen proteolysis and acidification state associated with response quality?	draft
+HLA2_LOADING	HLA class II processing and loading	antigen_presentation	primary	curated	v0.1	Does APC HLA-II loading support Tfh and B-cell responses?	draft
+CROSS_PRESENT	Cross-presentation and HLA class I loading	antigen_presentation	secondary	curated	v0.1	Are cross-presentation pathways engaged in selected contexts?	draft
+IMMUNOPROTEASOME	Immunoproteasome and peptide generation	proteostasis	secondary	curated	v0.1	Does inflammatory proteasome remodeling accompany APC activation?	draft
+UPR_QC	ER stress, UPR, and antigen-presentation quality control	proteostasis	primary	curated	v0.1	Does secretory and HLA biogenesis stress shape response quality?	draft
+STEROL_MEMBRANE	Sterol, cholesterol, and oxysterol membrane state	metabolism	primary	curated	v0.1	Does membrane lipid state regulate uptake, signaling, and vesicular traffic?	draft
+FC_APC	Fc receptor and phagocyte communication	immune_communication	primary	curated	v0.1	How does antibody Fc quality couple to APC/phagocyte function?	draft
+BCELL_TFH	B-cell, plasmablast, and Tfh coupling	adaptive_immunity	primary	curated	v0.1	Which cellular programs support durable humoral memory?	draft
