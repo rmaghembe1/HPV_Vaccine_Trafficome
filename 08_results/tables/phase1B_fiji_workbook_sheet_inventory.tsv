@@ -1,0 +1,18 @@
+sheet_name	max_rows	max_columns	likely_header_row	nonempty_cells_first_20_rows
+Data glossary	5	2	3	10
+HPV16_v1	81	15	1	300
+HPV16_v2	92	15	1	300
+HPV18_v1	84	15	1	300
+HPV18_v2	84	15	1	300
+HPV31_v1	94	13	1	260
+HPV31_v2	81	13	1	260
+HPV33_v1	92	13	1	260
+HPV33_v2	86	13	1	260
+HPV45_v1	92	13	1	260
+HPV45_v2	81	13	1	260
+HPV52_v1	92	13	1	260
+HPV52_v2	86	13	1	260
+HPV58_v1	92	13	1	260
+HPV58_v2	86	13	1	260
+BPV_v1	81	13	1	260
+BPV_v2	81	13	1	260

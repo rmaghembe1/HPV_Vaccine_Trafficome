@@ -1,0 +1,219 @@
+sheet_name	header_row	column_number	header_value	matched_categories
+Data glossary	3	1	Dosage	dose_regimen
+Data glossary	3	2	Number of 4vHPV doses the participant received	participant_identifier;vaccine_type
+HPV16_v1	1	1	ID	
+HPV16_v1	1	2	Dosage	dose_regimen
+HPV16_v1	1	3	IgG	antibody_isotype_subclass
+HPV16_v1	1	4	IgM	antibody_isotype_subclass
+HPV16_v1	1	5	IgA1	antibody_isotype_subclass
+HPV16_v1	1	6	IgA2	antibody_isotype_subclass
+HPV16_v1	1	7	IgG1	antibody_isotype_subclass
+HPV16_v1	1	8	IgG2	antibody_isotype_subclass
+HPV16_v1	1	9	IgG3	antibody_isotype_subclass
+HPV16_v1	1	10	IgG4	antibody_isotype_subclass
+HPV16_v1	1	11	FcgR2A	fc_receptor
+HPV16_v1	1	12	FcgR2B	fc_receptor
+HPV16_v1	1	13	FcgR3A	fc_receptor
+HPV16_v1	1	14	ADCP	adcp
+HPV16_v1	1	15	nAb	
+HPV16_v2	1	1	ID	
+HPV16_v2	1	2	Dosage	dose_regimen
+HPV16_v2	1	3	IgG	antibody_isotype_subclass
+HPV16_v2	1	4	IgM	antibody_isotype_subclass
+HPV16_v2	1	5	IgA1	antibody_isotype_subclass
+HPV16_v2	1	6	IgA2	antibody_isotype_subclass
+HPV16_v2	1	7	IgG1	antibody_isotype_subclass
+HPV16_v2	1	8	IgG2	antibody_isotype_subclass
+HPV16_v2	1	9	IgG3	antibody_isotype_subclass
+HPV16_v2	1	10	IgG4	antibody_isotype_subclass
+HPV16_v2	1	11	FcgR2A	fc_receptor
+HPV16_v2	1	12	FcgR2B	fc_receptor
+HPV16_v2	1	13	FcgR3A	fc_receptor
+HPV16_v2	1	14	ADCP	adcp
+HPV16_v2	1	15	nAb	
+HPV18_v1	1	1	ID	
+HPV18_v1	1	2	Dosage	dose_regimen
+HPV18_v1	1	3	IgG	antibody_isotype_subclass
+HPV18_v1	1	4	IgM	antibody_isotype_subclass
+HPV18_v1	1	5	IgA1	antibody_isotype_subclass
+HPV18_v1	1	6	IgA2	antibody_isotype_subclass
+HPV18_v1	1	7	IgG1	antibody_isotype_subclass
+HPV18_v1	1	8	IgG2	antibody_isotype_subclass
+HPV18_v1	1	9	IgG3	antibody_isotype_subclass
+HPV18_v1	1	10	IgG4	antibody_isotype_subclass
+HPV18_v1	1	11	FcgR2A	fc_receptor
+HPV18_v1	1	12	FcgR2B	fc_receptor
+HPV18_v1	1	13	FcgR3A	fc_receptor
+HPV18_v1	1	14	ADCP	adcp
+HPV18_v1	1	15	nAb	
+HPV18_v2	1	1	ID	
+HPV18_v2	1	2	Dosage	dose_regimen
+HPV18_v2	1	3	IgG	antibody_isotype_subclass
+HPV18_v2	1	4	IgM	antibody_isotype_subclass
+HPV18_v2	1	5	IgA1	antibody_isotype_subclass
+HPV18_v2	1	6	IgA2	antibody_isotype_subclass
+HPV18_v2	1	7	IgG1	antibody_isotype_subclass
+HPV18_v2	1	8	IgG2	antibody_isotype_subclass
+HPV18_v2	1	9	IgG3	antibody_isotype_subclass
+HPV18_v2	1	10	IgG4	antibody_isotype_subclass
+HPV18_v2	1	11	FcgR2A	fc_receptor
+HPV18_v2	1	12	FcgR2B	fc_receptor
+HPV18_v2	1	13	FcgR3A	fc_receptor
+HPV18_v2	1	14	ADCP	adcp
+HPV18_v2	1	15	nAb	
+HPV31_v1	1	1	ID	
+HPV31_v1	1	2	Dosage	dose_regimen
+HPV31_v1	1	3	IgG	antibody_isotype_subclass
+HPV31_v1	1	4	IgM	antibody_isotype_subclass
+HPV31_v1	1	5	IgA1	antibody_isotype_subclass
+HPV31_v1	1	6	IgA2	antibody_isotype_subclass
+HPV31_v1	1	7	IgG1	antibody_isotype_subclass
+HPV31_v1	1	8	IgG2	antibody_isotype_subclass
+HPV31_v1	1	9	IgG3	antibody_isotype_subclass
+HPV31_v1	1	10	IgG4	antibody_isotype_subclass
+HPV31_v1	1	11	FcgR2A	fc_receptor
+HPV31_v1	1	12	FcgR2B	fc_receptor
+HPV31_v1	1	13	FcgR3A	fc_receptor
+HPV31_v2	1	1	ID	
+HPV31_v2	1	2	Dosage	dose_regimen
+HPV31_v2	1	3	IgG	antibody_isotype_subclass
+HPV31_v2	1	4	IgM	antibody_isotype_subclass
+HPV31_v2	1	5	IgA1	antibody_isotype_subclass
+HPV31_v2	1	6	IgA2	antibody_isotype_subclass
+HPV31_v2	1	7	IgG1	antibody_isotype_subclass
+HPV31_v2	1	8	IgG2	antibody_isotype_subclass
+HPV31_v2	1	9	IgG3	antibody_isotype_subclass
+HPV31_v2	1	10	IgG4	antibody_isotype_subclass
+HPV31_v2	1	11	FcgR2A	fc_receptor
+HPV31_v2	1	12	FcgR2B	fc_receptor
+HPV31_v2	1	13	FcgR3A	fc_receptor
+HPV33_v1	1	1	ID	
+HPV33_v1	1	2	Dosage	dose_regimen
+HPV33_v1	1	3	IgG	antibody_isotype_subclass
+HPV33_v1	1	4	IgM	antibody_isotype_subclass
+HPV33_v1	1	5	IgA1	antibody_isotype_subclass
+HPV33_v1	1	6	IgA2	antibody_isotype_subclass
+HPV33_v1	1	7	IgG1	antibody_isotype_subclass
+HPV33_v1	1	8	IgG2	antibody_isotype_subclass
+HPV33_v1	1	9	IgG3	antibody_isotype_subclass
+HPV33_v1	1	10	IgG4	antibody_isotype_subclass
+HPV33_v1	1	11	FcgR2A	fc_receptor
+HPV33_v1	1	12	FcgR2B	fc_receptor
+HPV33_v1	1	13	FcgR3A	fc_receptor
+HPV33_v2	1	1	ID	
+HPV33_v2	1	2	Dosage	dose_regimen
+HPV33_v2	1	3	IgG	antibody_isotype_subclass
+HPV33_v2	1	4	IgM	antibody_isotype_subclass
+HPV33_v2	1	5	IgA1	antibody_isotype_subclass
+HPV33_v2	1	6	IgA2	antibody_isotype_subclass
+HPV33_v2	1	7	IgG1	antibody_isotype_subclass
+HPV33_v2	1	8	IgG2	antibody_isotype_subclass
+HPV33_v2	1	9	IgG3	antibody_isotype_subclass
+HPV33_v2	1	10	IgG4	antibody_isotype_subclass
+HPV33_v2	1	11	FcgR2A	fc_receptor
+HPV33_v2	1	12	FcgR2B	fc_receptor
+HPV33_v2	1	13	FcgR3A	fc_receptor
+HPV45_v1	1	1	ID	
+HPV45_v1	1	2	Dosage	dose_regimen
+HPV45_v1	1	3	IgG	antibody_isotype_subclass
+HPV45_v1	1	4	IgM	antibody_isotype_subclass
+HPV45_v1	1	5	IgA1	antibody_isotype_subclass
+HPV45_v1	1	6	IgA2	antibody_isotype_subclass
+HPV45_v1	1	7	IgG1	antibody_isotype_subclass
+HPV45_v1	1	8	IgG2	antibody_isotype_subclass
+HPV45_v1	1	9	IgG3	antibody_isotype_subclass
+HPV45_v1	1	10	IgG4	antibody_isotype_subclass
+HPV45_v1	1	11	FcgR2A	fc_receptor
+HPV45_v1	1	12	FcgR2B	fc_receptor
+HPV45_v1	1	13	FcgR3A	fc_receptor
+HPV45_v2	1	1	ID	
+HPV45_v2	1	2	Dosage	dose_regimen
+HPV45_v2	1	3	IgG	antibody_isotype_subclass
+HPV45_v2	1	4	IgM	antibody_isotype_subclass
+HPV45_v2	1	5	IgA1	antibody_isotype_subclass
+HPV45_v2	1	6	IgA2	antibody_isotype_subclass
+HPV45_v2	1	7	IgG1	antibody_isotype_subclass
+HPV45_v2	1	8	IgG2	antibody_isotype_subclass
+HPV45_v2	1	9	IgG3	antibody_isotype_subclass
+HPV45_v2	1	10	IgG4	antibody_isotype_subclass
+HPV45_v2	1	11	FcgR2A	fc_receptor
+HPV45_v2	1	12	FcgR2B	fc_receptor
+HPV45_v2	1	13	FcgR3A	fc_receptor
+HPV52_v1	1	1	ID	
+HPV52_v1	1	2	Dosage	dose_regimen
+HPV52_v1	1	3	IgG	antibody_isotype_subclass
+HPV52_v1	1	4	IgM	antibody_isotype_subclass
+HPV52_v1	1	5	IgA1	antibody_isotype_subclass
+HPV52_v1	1	6	IgA2	antibody_isotype_subclass
+HPV52_v1	1	7	IgG1	antibody_isotype_subclass
+HPV52_v1	1	8	IgG2	antibody_isotype_subclass
+HPV52_v1	1	9	IgG3	antibody_isotype_subclass
+HPV52_v1	1	10	IgG4	antibody_isotype_subclass
+HPV52_v1	1	11	FcgR2A	fc_receptor
+HPV52_v1	1	12	FcgR2B	fc_receptor
+HPV52_v1	1	13	FcgR3A	fc_receptor
+HPV52_v2	1	1	ID	
+HPV52_v2	1	2	Dosage	dose_regimen
+HPV52_v2	1	3	IgG	antibody_isotype_subclass
+HPV52_v2	1	4	IgM	antibody_isotype_subclass
+HPV52_v2	1	5	IgA1	antibody_isotype_subclass
+HPV52_v2	1	6	IgA2	antibody_isotype_subclass
+HPV52_v2	1	7	IgG1	antibody_isotype_subclass
+HPV52_v2	1	8	IgG2	antibody_isotype_subclass
+HPV52_v2	1	9	IgG3	antibody_isotype_subclass
+HPV52_v2	1	10	IgG4	antibody_isotype_subclass
+HPV52_v2	1	11	FcgR2A	fc_receptor
+HPV52_v2	1	12	FcgR2B	fc_receptor
+HPV52_v2	1	13	FcgR3A	fc_receptor
+HPV58_v1	1	1	ID	
+HPV58_v1	1	2	Dosage	dose_regimen
+HPV58_v1	1	3	IgG	antibody_isotype_subclass
+HPV58_v1	1	4	IgM	antibody_isotype_subclass
+HPV58_v1	1	5	IgA1	antibody_isotype_subclass
+HPV58_v1	1	6	IgA2	antibody_isotype_subclass
+HPV58_v1	1	7	IgG1	antibody_isotype_subclass
+HPV58_v1	1	8	IgG2	antibody_isotype_subclass
+HPV58_v1	1	9	IgG3	antibody_isotype_subclass
+HPV58_v1	1	10	IgG4	antibody_isotype_subclass
+HPV58_v1	1	11	FcgR2A	fc_receptor
+HPV58_v1	1	12	FcgR2B	fc_receptor
+HPV58_v1	1	13	FcgR3A	fc_receptor
+HPV58_v2	1	1	ID	
+HPV58_v2	1	2	Dosage	dose_regimen
+HPV58_v2	1	3	IgG	antibody_isotype_subclass
+HPV58_v2	1	4	IgM	antibody_isotype_subclass
+HPV58_v2	1	5	IgA1	antibody_isotype_subclass
+HPV58_v2	1	6	IgA2	antibody_isotype_subclass
+HPV58_v2	1	7	IgG1	antibody_isotype_subclass
+HPV58_v2	1	8	IgG2	antibody_isotype_subclass
+HPV58_v2	1	9	IgG3	antibody_isotype_subclass
+HPV58_v2	1	10	IgG4	antibody_isotype_subclass
+HPV58_v2	1	11	FcgR2A	fc_receptor
+HPV58_v2	1	12	FcgR2B	fc_receptor
+HPV58_v2	1	13	FcgR3A	fc_receptor
+BPV_v1	1	1	ID	
+BPV_v1	1	2	Dosage	dose_regimen
+BPV_v1	1	3	IgG	antibody_isotype_subclass
+BPV_v1	1	4	IgM	antibody_isotype_subclass
+BPV_v1	1	5	IgA1	antibody_isotype_subclass
+BPV_v1	1	6	IgA2	antibody_isotype_subclass
+BPV_v1	1	7	IgG1	antibody_isotype_subclass
+BPV_v1	1	8	IgG2	antibody_isotype_subclass
+BPV_v1	1	9	IgG3	antibody_isotype_subclass
+BPV_v1	1	10	IgG4	antibody_isotype_subclass
+BPV_v1	1	11	FcgR2A	fc_receptor
+BPV_v1	1	12	FcgR2B	fc_receptor
+BPV_v1	1	13	FcgR3A	fc_receptor
+BPV_v2	1	1	ID	
+BPV_v2	1	2	Dosage	dose_regimen
+BPV_v2	1	3	IgG	antibody_isotype_subclass
+BPV_v2	1	4	IgM	antibody_isotype_subclass
+BPV_v2	1	5	IgA1	antibody_isotype_subclass
+BPV_v2	1	6	IgA2	antibody_isotype_subclass
+BPV_v2	1	7	IgG1	antibody_isotype_subclass
+BPV_v2	1	8	IgG2	antibody_isotype_subclass
+BPV_v2	1	9	IgG3	antibody_isotype_subclass
+BPV_v2	1	10	IgG4	antibody_isotype_subclass
+BPV_v2	1	11	FcgR2A	fc_receptor
+BPV_v2	1	12	FcgR2B	fc_receptor
+BPV_v2	1	13	FcgR3A	fc_receptor

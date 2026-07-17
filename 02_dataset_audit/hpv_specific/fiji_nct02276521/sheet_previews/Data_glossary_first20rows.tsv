@@ -1,0 +1,5 @@
+Term	Definition
+ID	Study identification number used to identify participants
+Dosage	Number of 4vHPV doses the participant received
+_v1	Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study
+_v2	Data from Visit 2 samples (28 days after receiving a 2vHPV vaccine booster)
