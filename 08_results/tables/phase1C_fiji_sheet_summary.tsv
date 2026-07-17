@@ -1,0 +1,17 @@
+source_sheet	antigen_target	antigen_class	visit	participant_rows	unique_participants	assay_features	number_of_assay_features
+HPV16_v1	HPV16	vaccine_target_2vHPV_and_4vHPV	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A;ADCP;nAb	13
+HPV16_v2	HPV16	vaccine_target_2vHPV_and_4vHPV	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A;ADCP;nAb	13
+HPV18_v1	HPV18	vaccine_target_2vHPV_and_4vHPV	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A;ADCP;nAb	13
+HPV18_v2	HPV18	vaccine_target_2vHPV_and_4vHPV	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A;ADCP;nAb	13
+HPV31_v1	HPV31	cross_reactive_non_booster_target	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV31_v2	HPV31	cross_reactive_non_booster_target	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV33_v1	HPV33	cross_reactive_non_booster_target	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV33_v2	HPV33	cross_reactive_non_booster_target	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV45_v1	HPV45	cross_reactive_non_booster_target	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV45_v2	HPV45	cross_reactive_non_booster_target	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV52_v1	HPV52	cross_reactive_non_booster_target	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV52_v2	HPV52	cross_reactive_non_booster_target	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV58_v1	HPV58	cross_reactive_non_booster_target	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+HPV58_v2	HPV58	cross_reactive_non_booster_target	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+BPV_v1	BPV	heterologous_control_antigen	v1	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11
+BPV_v2	BPV	heterologous_control_antigen	v2	80	80	IgG;IgM;IgA1;IgA2;IgG1;IgG2;IgG3;IgG4;FcgR2A;FcgR2B;FcgR3A	11

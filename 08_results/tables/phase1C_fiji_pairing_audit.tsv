@@ -1,0 +1,9 @@
+antigen_target	antigen_class	visit1_participants	visit2_participants	paired_participants	visit1_only_participants	visit2_only_participants	paired_fraction_of_union	visit1_only_ids	visit2_only_ids
+BPV	heterologous_control_antigen	80	80	80	0	0	1.0		
+HPV16	vaccine_target_2vHPV_and_4vHPV	80	80	80	0	0	1.0		
+HPV18	vaccine_target_2vHPV_and_4vHPV	80	80	80	0	0	1.0		
+HPV31	cross_reactive_non_booster_target	80	80	80	0	0	1.0		
+HPV33	cross_reactive_non_booster_target	80	80	80	0	0	1.0		
+HPV45	cross_reactive_non_booster_target	80	80	80	0	0	1.0		
+HPV52	cross_reactive_non_booster_target	80	80	80	0	0	1.0		
+HPV58	cross_reactive_non_booster_target	80	80	80	0	0	1.0		

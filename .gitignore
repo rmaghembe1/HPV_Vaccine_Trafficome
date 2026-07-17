@@ -35,3 +35,6 @@ __pycache__/
 ~$*
 .DS_Store
 Thumbs.db
+
+# Public but participant-level transformed Fiji data
+07_data_processed/fiji_nct02276521/

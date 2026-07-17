@@ -1,0 +1,12 @@
+variable	decision	source	analysis_use
+participant_id	PARTICIPANT_LEVEL_CONFIRMED	ID column in all assay worksheets	pairing and participant random effects
+previous_4vHPV_doses	PARTICIPANT_LEVEL_CONFIRMED	Dosage column in all assay worksheets	primary regimen exposure
+visit	DERIVED_FROM_WORKSHEET	_v1 and _v2 worksheet suffixes	persistence versus booster recall
+antigen_target	DERIVED_FROM_WORKSHEET	HPV16, HPV18, HPV31, HPV33, HPV45, HPV52, HPV58 or BPV worksheet prefix	vaccine-target, cross-reactive and control contrasts
+prior_vaccine_type	STUDY_LEVEL_CONFIRMED	Glossary identifies previous doses as 4vHPV	prior exposure context
+booster_vaccine_type	STUDY_LEVEL_CONFIRMED	Glossary identifies Visit 2 as 28 days after 2vHPV booster	booster-recall context
+age	NOT_AVAILABLE_IN_OPEN_WORKBOOK	No participant-level field detected	requires external linkage
+weight	NOT_AVAILABLE_IN_OPEN_WORKBOOK	No participant-level field detected	requires external linkage
+bmi	NOT_AVAILABLE_IN_OPEN_WORKBOOK	No participant-level field detected	requires external linkage
+sex	NOT_AVAILABLE_IN_OPEN_WORKBOOK	No participant-level field detected	not estimable as a covariate
+ethnicity	NOT_AVAILABLE_IN_OPEN_WORKBOOK	No participant-level field detected	requires external linkage
