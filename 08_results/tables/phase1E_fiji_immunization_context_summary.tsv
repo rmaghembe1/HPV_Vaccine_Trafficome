@@ -1,0 +1,9 @@
+previous_4vHPV_doses	visit	prior_4vHPV_exposure_status	immunization_context	response_type	participants	antigen_targets	assay_features	feature_observations
+0	v1	hpv_vaccine_naive	unvaccinated_pre_2vHPV_baseline	unvaccinated_baseline	20	8	13	1840
+0	v2	hpv_vaccine_naive	primary_2vHPV_response_day28	primary_immunization	20	8	13	1840
+1	v1	previously_4vHPV_vaccinated	six_year_4vHPV_persistence	long_term_persistence	20	8	13	1840
+1	v2	previously_4vHPV_vaccinated	heterologous_2vHPV_recall_day28	memory_recall	20	8	13	1840
+2	v1	previously_4vHPV_vaccinated	six_year_4vHPV_persistence	long_term_persistence	21	8	13	1932
+2	v2	previously_4vHPV_vaccinated	heterologous_2vHPV_recall_day28	memory_recall	21	8	13	1932
+3	v1	previously_4vHPV_vaccinated	six_year_4vHPV_persistence	long_term_persistence	19	8	13	1748
+3	v2	previously_4vHPV_vaccinated	heterologous_2vHPV_recall_day28	memory_recall	19	8	13	1748

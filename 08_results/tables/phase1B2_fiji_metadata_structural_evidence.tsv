@@ -1,0 +1,9 @@
+variable	sheet	row	column	matched_value	location_type
+participant_id	Data glossary	2	2	Study identification number used to identify participants	glossary
+participant_id	Data glossary	3	2	Number of 4vHPV doses the participant received	glossary
+dose	Data glossary	3	2	Number of 4vHPV doses the participant received	glossary
+dose	Data glossary	4	2	Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study	glossary
+visit_time	Data glossary	4	2	Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study	glossary
+vaccine	Data glossary	4	2	Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study	glossary
+visit_time	Data glossary	5	2	Data from Visit 2 samples (28 days after receiving a 2vHPV vaccine booster)	glossary
+vaccine	Data glossary	5	2	Data from Visit 2 samples (28 days after receiving a 2vHPV vaccine booster)	glossary

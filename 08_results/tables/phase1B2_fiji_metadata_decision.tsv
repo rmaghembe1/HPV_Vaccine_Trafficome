@@ -1,0 +1,10 @@
+variable	decision	participant_like_columns	header_hits	glossary_hits	other_text_hits	worksheets	examples
+participant_id	TEXT_OR_GLOSSARY_ONLY	0	0	2	0	Data glossary	Data glossary!R2C2=Study identification number used to identify participants | Data glossary!R3C2=Number of 4vHPV doses the participant received
+age	NOT_DETECTED	0	0	0	0		
+weight	NOT_DETECTED	0	0	0	0		
+bmi	NOT_DETECTED	0	0	0	0		
+sex	NOT_DETECTED	0	0	0	0		
+ethnicity	NOT_DETECTED	0	0	0	0		
+dose	TEXT_OR_GLOSSARY_ONLY	0	0	2	0	Data glossary	Data glossary!R3C2=Number of 4vHPV doses the participant received | Data glossary!R4C2=Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study
+visit_time	TEXT_OR_GLOSSARY_ONLY	0	0	2	0	Data glossary	Data glossary!R4C2=Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study | Data glossary!R5C2=Data from Visit 2 samples (28 days after receiving a 2vHPV vaccine booster)
+vaccine	TEXT_OR_GLOSSARY_ONLY	0	0	2	0	Data glossary	Data glossary!R4C2=Data from Visit 1 samples (6 years after the last dose of 4vHPV vaccine) collected at the beginning of the study | Data glossary!R5C2=Data from Visit 2 samples (28 days after receiving a 2vHPV vaccine booster)
