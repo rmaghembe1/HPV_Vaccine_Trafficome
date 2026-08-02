@@ -1,2 +1,3 @@
 date	decision_id	decision	rationale	status
 2026-08-03	HPVVT-D001	Fiji open workbook supports participant-paired dose, visit, antigen and systems-serology analysis; demographic covariates are unavailable	ID and Dosage are direct columns; visit and antigen are encoded in worksheet names; age, weight, BMI, sex and ethnicity are absent	accepted
+2026-08-03	HPVVT-D002	Separate primary 2vHPV induction from long-term 4vHPV persistence and heterologous recall	The zero-dose group is vaccine-naive, whereas dose groups 1-3 contain established vaccine memory	accepted

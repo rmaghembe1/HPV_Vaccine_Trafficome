@@ -1,0 +1,6 @@
+outcome_family	features	antigen_scope	primary_scale	effect_measure	multiplicity_family
+Antibody abundance	IgG;IgM;IgA1;IgA2	HPV16;HPV18;HPV31;HPV33;HPV45;HPV52;HPV58;BPV	log2_raw_positive_value	log2_change_and_geometric_mean_ratio	abundance
+IgG subclass architecture	IgG1;IgG2;IgG3;IgG4	HPV16;HPV18;HPV31;HPV33;HPV45;HPV52;HPV58;BPV	log2_raw_positive_value	log2_change_and_geometric_mean_ratio	igg_subclasses
+Fc-receptor engagement	FcgR2A;FcgR2B;FcgR3A	HPV16;HPV18;HPV31;HPV33;HPV45;HPV52;HPV58;BPV	log2_raw_positive_value	log2_change_and_geometric_mean_ratio	fc_receptor_binding
+Phagocytic function	ADCP	HPV16;HPV18	log2_raw_positive_value	log2_change_and_geometric_mean_ratio	adcp
+Neutralization	nAb	HPV16;HPV18	log2_dilution_titer	log2_titer_change_and_geometric_mean_titer_ratio	neutralization
