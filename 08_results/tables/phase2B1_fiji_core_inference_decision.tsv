@@ -1,0 +1,2 @@
+decision	unique_participants	paired_feature_records	within_rows	global_rows	pairwise_rows	primary_recall_rows	within_fdr_significant	global_fdr_significant	pairwise_fdr_significant	primary_recall_fdr_significant	validation_failures
+READY_FOR_PHASE2B2_MIXED_MODEL_AND_FLOOR_SENSITIVITY	80	7360	368	184	552	81	238	9	14	52	

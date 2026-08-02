@@ -1,0 +1,45 @@
+result_table	model_id	model_family	outcome_family	tests	nominal_p_lt_0_05	fdr_q_lt_0_05	minimum_p_value	minimum_q_value
+global_dose_tests	HPVVT-FJ-M02	Six-year 4vHPV persistence	Antibody abundance	28	7	1	0.0003029514783816955	0.008482641394687475
+global_dose_tests	HPVVT-FJ-M02	Six-year 4vHPV persistence	Fc-receptor engagement	21	3	0	0.004650116458029966	0.09765244561862928
+global_dose_tests	HPVVT-FJ-M02	Six-year 4vHPV persistence	IgG subclass architecture	28	8	3	0.001962158047837702	0.049049884922963354
+global_dose_tests	HPVVT-FJ-M02	Six-year 4vHPV persistence	Neutralization	2	1	1	0.012474730588960092	0.024949461177920185
+global_dose_tests	HPVVT-FJ-M02	Six-year 4vHPV persistence	Phagocytic function	2	1	1	0.00446946298251639	0.00893892596503278
+global_dose_tests	HPVVT-FJ-M03	Heterologous 2vHPV recall	Antibody abundance	28	3	1	0.0016349276646304277	0.045777974609651974
+global_dose_tests	HPVVT-FJ-M03	Heterologous 2vHPV recall	Fc-receptor engagement	21	0	0	0.08497154834955709	0.5517864772970695
+global_dose_tests	HPVVT-FJ-M03	Heterologous 2vHPV recall	IgG subclass architecture	28	6	0	0.0026312248968781765	0.07367429711258894
+global_dose_tests	HPVVT-FJ-M03	Heterologous 2vHPV recall	Neutralization	2	1	1	0.005220914931136329	0.010441829862272657
+global_dose_tests	HPVVT-FJ-M03	Heterologous 2vHPV recall	Phagocytic function	2	1	0	0.025819897703739384	0.05163979540747877
+global_dose_tests	HPVVT-FJ-M06	Heterologous BPV control	Antibody abundance	8	0	0	0.18342171087852746	0.5973750842573724
+global_dose_tests	HPVVT-FJ-M06	Heterologous BPV control	Fc-receptor engagement	6	2	1	0.0008160810096710567	0.00244824302901317
+global_dose_tests	HPVVT-FJ-M06	Heterologous BPV control	IgG subclass architecture	8	1	0	0.03505970190802519	0.14023880763210075
+pairwise_dose_contrasts	HPVVT-FJ-M02	Six-year 4vHPV persistence	Antibody abundance	84	16	1	0.00019382282767167982	0.016281117524421105
+pairwise_dose_contrasts	HPVVT-FJ-M02	Six-year 4vHPV persistence	Fc-receptor engagement	63	8	0	0.0021111250490321505	0.10288106786157411
+pairwise_dose_contrasts	HPVVT-FJ-M02	Six-year 4vHPV persistence	IgG subclass architecture	84	21	3	0.0006634775152050395	0.04648802741711017
+pairwise_dose_contrasts	HPVVT-FJ-M02	Six-year 4vHPV persistence	Neutralization	6	3	3	0.004179354019835674	0.02507612411901404
+pairwise_dose_contrasts	HPVVT-FJ-M02	Six-year 4vHPV persistence	Phagocytic function	6	2	1	0.0009946857146193792	0.005968114287716275
+pairwise_dose_contrasts	HPVVT-FJ-M03	Heterologous 2vHPV recall	Antibody abundance	84	11	1	0.0004466417240606597	0.03751790482109541
+pairwise_dose_contrasts	HPVVT-FJ-M03	Heterologous 2vHPV recall	Fc-receptor engagement	63	1	0	0.02715446926325685	0.5483150738778576
+pairwise_dose_contrasts	HPVVT-FJ-M03	Heterologous 2vHPV recall	IgG subclass architecture	84	19	0	0.002094950306686085	0.10826439804260382
+pairwise_dose_contrasts	HPVVT-FJ-M03	Heterologous 2vHPV recall	Neutralization	6	2	2	0.0014666691123140787	0.008800014673884473
+pairwise_dose_contrasts	HPVVT-FJ-M03	Heterologous 2vHPV recall	Phagocytic function	6	3	1	0.00709264572557866	0.04255587435347196
+pairwise_dose_contrasts	HPVVT-FJ-M06	Heterologous BPV control	Antibody abundance	24	0	0	0.08142747898778277	0.6468242550517379
+pairwise_dose_contrasts	HPVVT-FJ-M06	Heterologous BPV control	Fc-receptor engagement	18	4	2	0.0003069352159453606	0.0027624169435082452
+pairwise_dose_contrasts	HPVVT-FJ-M06	Heterologous BPV control	IgG subclass architecture	24	3	0	0.010967071690290816	0.13160486028348978
+primary_vs_recall	HPVVT-FJ-M04	Primary-versus-recall contrast	Antibody abundance	28	13	12	1.5075274438823564e-11	4.221076842870598e-10
+primary_vs_recall	HPVVT-FJ-M04	Primary-versus-recall contrast	Fc-receptor engagement	21	17	17	3.2863513734178446e-10	6.9013378841774736e-09
+primary_vs_recall	HPVVT-FJ-M04	Primary-versus-recall contrast	IgG subclass architecture	28	22	22	2.1037247421962476e-11	4.2184259413812727e-10
+primary_vs_recall	HPVVT-FJ-M04	Primary-versus-recall contrast	Neutralization	2	1	1	0.008143763016430404	0.016287526032860808
+primary_vs_recall	HPVVT-FJ-M04	Primary-versus-recall contrast	Phagocytic function	2	0	0	0.4749281599178493	0.5145742933387568
+within_trajectory	HPVVT-FJ-M01	Primary 2vHPV induction	Antibody abundance	28	23	22	5.045015868360928e-12	1.4126044431410598e-10
+within_trajectory	HPVVT-FJ-M01	Primary 2vHPV induction	Fc-receptor engagement	21	9	8	1.1777724444886764e-08	2.4733221334262203e-07
+within_trajectory	HPVVT-FJ-M01	Primary 2vHPV induction	IgG subclass architecture	28	9	7	3.139458208733729e-11	8.790482984454442e-10
+within_trajectory	HPVVT-FJ-M01	Primary 2vHPV induction	Neutralization	2	2	2	3.124909200114592e-08	6.249818400229183e-08
+within_trajectory	HPVVT-FJ-M01	Primary 2vHPV induction	Phagocytic function	2	2	2	4.395239147111274e-07	5.605930448184137e-07
+within_trajectory	HPVVT-FJ-M03	Heterologous 2vHPV recall	Antibody abundance	84	56	54	2.8851261531779854e-10	2.4235059686695077e-08
+within_trajectory	HPVVT-FJ-M03	Heterologous 2vHPV recall	Fc-receptor engagement	63	57	57	2.6458481911597257e-09	1.6668843604306272e-07
+within_trajectory	HPVVT-FJ-M03	Heterologous 2vHPV recall	IgG subclass architecture	84	64	64	3.7781099982393545e-10	3.173612398521058e-08
+within_trajectory	HPVVT-FJ-M03	Heterologous 2vHPV recall	Neutralization	6	6	6	8.856986380163944e-14	5.314191828098367e-13
+within_trajectory	HPVVT-FJ-M03	Heterologous 2vHPV recall	Phagocytic function	6	6	6	1.0362913776996263e-08	6.217748266197757e-08
+within_trajectory	HPVVT-FJ-M06	Heterologous BPV control	Antibody abundance	16	5	3	3.0296760494940408e-05	0.0004847481679190465
+within_trajectory	HPVVT-FJ-M06	Heterologous BPV control	Fc-receptor engagement	12	5	4	0.00043247377090184123	0.005189685250822095
+within_trajectory	HPVVT-FJ-M06	Heterologous BPV control	IgG subclass architecture	16	5	3	2.0580680919477635e-05	0.0002698180235847282
