@@ -1,0 +1,2 @@
+decision	target_antigen	target_feature	contrasts_compared	direction_agreement	nominal_significance_agreement	maximum_absolute_estimate_difference	cluster_robust_observations	cluster_robust_participants	validation_failures
+READY_FOR_PHASE2B2D_INTEGRATION_AND_BIOLOGICAL_SYNTHESIS	HPV16	FcgR2A	11	11	8	1.8318679906315083e-14	160	80	
