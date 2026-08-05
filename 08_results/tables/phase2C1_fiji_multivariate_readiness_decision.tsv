@@ -1,0 +1,2 @@
+decision	paired_effect_rows	participants	raw_matrix_rows	raw_matrix_variables	bpv_calibrated_matrix_rows	bpv_calibrated_matrix_variables	bpv_calibrated_long_rows	feature_manifest_rows	readiness_audit_rows	raw_missing_values	bpv_calibrated_missing_values	validation_failures
+READY_FOR_PHASE2C2_BREADTH_AND_PHASE2C3_FUNCTIONAL_COUPLING	7360	80	80	92	80	77	6160	169	12	0	0	
