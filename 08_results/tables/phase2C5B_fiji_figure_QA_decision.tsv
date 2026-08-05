@@ -1,0 +1,2 @@
+decision	figure_QA_rows	figure_QA_passes	figure_QA_failures	raster_files_checked	svg_files_checked	editable_svg_files	contact_sheet_generated	figure_legends_generated	supported_core_axis_rows	validation_failures
+PHASE2C5B_REPAIR_REQUIRED	6	5	1	4	2	2	True	2	4	One or more figure files failed automated QA: 09_figures/hpv_specific/fiji_nct02276521/phase2C5/Figure_Fiji_multivariate_immune_state_architecture_v1.svg

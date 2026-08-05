@@ -1,0 +1,9 @@
+matrix_representation	cluster_count	cluster_label	participants	primary_participants	recall_participants	primary_fraction	recall_fraction	display_label
+raw_log2_change	2	1	61	2	59	0.03278688524590164	0.9672131147540983	"Raw
+C1"
+raw_log2_change	2	2	19	18	1	0.9473684210526315	0.05263157894736842	"Raw
+C2"
+bpv_calibrated_log2_change	2	1	21	19	2	0.9047619047619048	0.09523809523809523	"BPV-calibrated
+C1"
+bpv_calibrated_log2_change	2	2	59	1	58	0.01694915254237288	0.9830508474576272	"BPV-calibrated
+C2"

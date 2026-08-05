@@ -1,0 +1,7 @@
+figure_file	file_type	file_size_bytes	image_format	image_mode	width_pixels	height_pixels	x_dpi	y_dpi	grayscale_standard_deviation	nonwhite_pixel_fraction	content_bounding_fraction	editable_vector	svg_text_elements	svg_embedded_images	qa_pass	svg_viewbox_present
+09_figures/hpv_specific/fiji_nct02276521/phase2C5/Figure_Fiji_multivariate_immune_state_architecture_v2.png	png	1745478	PNG	RGBA	9366.0	6061.0	599.9988	599.9988	43.19225281415773	0.16742814242814244	0.9697072072072072	False			True	
+09_figures/hpv_specific/fiji_nct02276521/phase2C5/Figure_Fiji_multivariate_immune_state_architecture_v2.tiff	tiff	6038000	TIFF	RGBA	9369.0	6069.0	600.0	600.0	43.22924149318079	0.16735413985413986	0.9705255255255255	False			True	
+09_figures/hpv_specific/fiji_nct02276521/phase2C5/Figure_Fiji_multivariate_immune_state_architecture_v2.svg	svg	113515	SVG									True	143.0	0.0	True	True
+09_figures/hpv_specific/fiji_nct02276521/phase2C5/FigureS_Fiji_multivariate_stability_and_loadings_v2.png	png	1206805	PNG	RGBA	9369.0	6669.0	599.9988	599.9988	66.80036930126654	0.32498048399687746	0.9698165495706479	False			True	
+09_figures/hpv_specific/fiji_nct02276521/phase2C5/FigureS_Fiji_multivariate_stability_and_loadings_v2.tiff	tiff	6151078	TIFF	RGBA	9369.0	6669.0	600.0	600.0	66.81033652180831	0.32599726775956284	0.9698165495706479	False			True	
+09_figures/hpv_specific/fiji_nct02276521/phase2C5/FigureS_Fiji_multivariate_stability_and_loadings_v2.svg	svg	73698	SVG									True	132.0	0.0	True	True
