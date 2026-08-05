@@ -1,0 +1,9 @@
+matrix_representation	omitted_feature_family	original_features	omitted_features	retained_features	reduced_components_for_80_percent_variance
+raw_log2_change	binding_antibody_abundance	92	32	60	16
+raw_log2_change	fc_receptor_communication	92	24	68	19
+raw_log2_change	igg_subclass_architecture	92	32	60	17
+raw_log2_change	neutralization	92	2	90	21
+raw_log2_change	phagocytic_function	92	2	90	21
+bpv_calibrated_log2_change	binding_antibody_abundance	77	28	49	12
+bpv_calibrated_log2_change	fc_receptor_communication	77	21	56	14
+bpv_calibrated_log2_change	igg_subclass_architecture	77	28	49	12
