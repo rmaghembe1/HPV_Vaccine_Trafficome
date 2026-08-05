@@ -1,0 +1,5 @@
+mechanistic_axis	axis_label	claim_ready_findings	claim_ready_metrics	minimum_bpv_calibrated_q_value	median_bpv_calibrated_effect	maximum_bpv_calibrated_effect	raw_only_attenuated_findings	direction_unstable_findings
+binding_antibody_abundance	binding-antibody abundance	0					2	0
+igg_subclass_architecture	IgG-subclass architecture	6	cross_antigen_standard_deviation, mean_cross_reactive_score, median_cross_reactive_score, minimum_cross_reactive_score, positive_antigen_count, twofold_antigen_count	0.0002083532804172	1.9004914055289879	3.0	4	2
+fc_receptor_communication	Fc-receptor communication	5	mean_cross_reactive_score, median_cross_reactive_score, minimum_cross_reactive_score, positive_antigen_count, twofold_antigen_count	0.0008074739710621	2.0158281812929597	3.0	0	2
+global_shared_serology	global shared systems-serology	5	mean_cross_reactive_score, median_cross_reactive_score, minimum_cross_reactive_score, positive_antigen_count, twofold_antigen_count	6.415973963714021e-05	1.3696059498521076	3.0	1	1

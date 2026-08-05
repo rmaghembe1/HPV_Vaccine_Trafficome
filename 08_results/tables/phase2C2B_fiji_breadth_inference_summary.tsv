@@ -1,0 +1,9 @@
+analysis_type	matrix_type	tests	nominal_p_below_0_05	fdr_significant_tests	minimum_q_value
+primary_vs_recall	bpv_calibrated_log2_change	24	16	16	6.415973963714021e-05
+primary_vs_recall	raw_log2_change	24	18	18	1.0253147710138335e-07
+recall_dose_global	bpv_calibrated_log2_change	24	0	0	0.36741741763493907
+recall_dose_global	raw_log2_change	24	0	0	0.1276584026351728
+recall_dose_trend	bpv_calibrated_log2_change	24	0	0	0.15603137117238733
+recall_dose_trend	raw_log2_change	24	5	5	0.029128929251931647
+recall_dose_pairwise	bpv_calibrated_log2_change	72	0	0	0.23721482655226936
+recall_dose_pairwise	raw_log2_change	72	0	0	0.0697204856706203
