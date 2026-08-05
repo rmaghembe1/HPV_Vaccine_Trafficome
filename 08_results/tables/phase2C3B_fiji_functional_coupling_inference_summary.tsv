@@ -1,0 +1,10 @@
+analysis_type	predictor_representation	tests	fdr_significant_tests	minimum_q_value	floor_sensitive_tests
+primary_vs_recall_context_difference	bpv_calibrated_predictor	24	0	0.056126678980348184	18
+primary_vs_recall_context_difference	raw_functions	2	1	0.0002514849631900081	2
+primary_vs_recall_context_difference	raw_predictor	24	4	9.806428704302958e-05	13
+recall_dose_correlation_heterogeneity	bpv_calibrated_predictor	24	1	0.035570729925558285	18
+recall_dose_correlation_heterogeneity	raw_functions	2	0	0.48307744847588663	2
+recall_dose_correlation_heterogeneity	raw_predictor	24	0	0.46483277819132995	13
+recall_partial_adjusted_for_dose	bpv_calibrated_predictor	24	6	2.5963496803527057e-05	18
+recall_partial_adjusted_for_dose	raw_functions	2	2	4.937790723722921e-12	2
+recall_partial_adjusted_for_dose	raw_predictor	24	17	3.9962016229348874e-10	13
