@@ -1,0 +1,20 @@
+analysis_context	context_label	antigen_group	antigen_group_label	mechanistic_axis	total_effects	raw_fdr_significant_effects	claim_ready_effects	qualified_effects	bpv_calibrated_supported_effects	robust_without_bpv_calibration	attenuated_after_bpv_calibration	direction_changed_after_bpv_calibration	not_supported_after_floor_sensitivity	claim_ready_antigens	claim_ready_features	median_absolute_claim_ready_log2_effect	maximum_absolute_claim_ready_log2_effect
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	cross_reactive_type	Cross-reactive HPV31/33/45/52/58	Binding-antibody abundance	60	36	19	17	19	0	8	3	6	HPV31, HPV33, HPV45, HPV52, HPV58	IgA1, IgG, IgM	3.335402683273118	5.041652973623409
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	cross_reactive_type	Cross-reactive HPV31/33/45/52/58	Fc-receptor communication	45	45	34	11	34	0	8	1	2	HPV31, HPV33, HPV45, HPV52, HPV58	FcgR2A, FcgR2B, FcgR3A	4.000017584621842	6.358503677251621
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	cross_reactive_type	Cross-reactive HPV31/33/45/52/58	IgG subclass architecture	60	45	36	9	36	0	7	0	2	HPV31, HPV33, HPV45, HPV52, HPV58	IgG1, IgG2, IgG3, IgG4	3.165993770071449	7.458074143004342
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	vaccine_type	Vaccine-type HPV16/18	Binding-antibody abundance	24	18	7	11	7	0	7	1	3	HPV16, HPV18	IgA2, IgG, IgM	2.2001065108188125	4.752425889451458
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	vaccine_type	Vaccine-type HPV16/18	Fc-receptor communication	18	12	0	12	0	0	8	4	0				
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	vaccine_type	Vaccine-type HPV16/18	IgG subclass architecture	24	19	9	10	9	0	6	2	2	HPV16, HPV18	IgG1, IgG2, IgG3, IgG4	2.491257919520913	3.559389144155444
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	vaccine_type	Vaccine-type HPV16/18	Neutralizing-antibody function	6	6	6	0	0	6	0	0	0	HPV16, HPV18	nAb	5.197994987468672	6.1
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	vaccine_type	Vaccine-type HPV16/18	Phagocyte-directed Fc effector function	6	6	6	0	0	6	0	0	0	HPV16, HPV18	ADCP	0.9793931255213324	1.76210230770852
+heterologous_bpv_control	Heterologous BPV control	heterologous_control	Heterologous BPV control	Binding-antibody abundance	16	3	0	0	0	0	0	0	0				
+heterologous_bpv_control	Heterologous BPV control	heterologous_control	Heterologous BPV control	Fc-receptor communication	12	4	0	0	0	0	0	0	0				
+heterologous_bpv_control	Heterologous BPV control	heterologous_control	Heterologous BPV control	IgG subclass architecture	16	3	0	0	0	0	0	0	0				
+primary_2vHPV_induction	Primary 2vHPV induction	cross_reactive_type	Cross-reactive HPV31/33/45/52/58	Binding-antibody abundance	20	14	7	7	7	0	5	1	1	HPV31, HPV33, HPV45, HPV52, HPV58	IgA2, IgG, IgM	1.5753647784969116	3.571645274820687
+primary_2vHPV_induction	Primary 2vHPV induction	cross_reactive_type	Cross-reactive HPV31/33/45/52/58	Fc-receptor communication	15	4	2	2	2	0	2	0	0	HPV31	FcgR2B, FcgR3A	2.174819368280388	2.3336024071487924
+primary_2vHPV_induction	Primary 2vHPV induction	cross_reactive_type	Cross-reactive HPV31/33/45/52/58	IgG subclass architecture	20	3	2	1	2	0	1	0	0	HPV31, HPV45	IgG1	1.5728264118362567	1.973137563655733
+primary_2vHPV_induction	Primary 2vHPV induction	vaccine_type	Vaccine-type HPV16/18	Binding-antibody abundance	8	8	8	0	8	0	0	0	0	HPV16, HPV18	IgA1, IgA2, IgG, IgM	4.742133647679103	9.639142316027357
+primary_2vHPV_induction	Primary 2vHPV induction	vaccine_type	Vaccine-type HPV16/18	Fc-receptor communication	6	4	4	0	4	0	0	0	0	HPV16, HPV18	FcgR2B, FcgR3A	5.234758372430078	7.728529739934484
+primary_2vHPV_induction	Primary 2vHPV induction	vaccine_type	Vaccine-type HPV16/18	IgG subclass architecture	8	4	4	0	4	0	0	0	0	HPV16, HPV18	IgG1, IgG3	4.907966608758545	6.35407373764079
+primary_2vHPV_induction	Primary 2vHPV induction	vaccine_type	Vaccine-type HPV16/18	Neutralizing-antibody function	2	2	2	0	0	2	0	0	0	HPV16, HPV18	nAb	4.5	5.1
+primary_2vHPV_induction	Primary 2vHPV induction	vaccine_type	Vaccine-type HPV16/18	Phagocyte-directed Fc effector function	2	2	2	0	0	2	0	0	0	HPV16, HPV18	ADCP	1.1010283082806325	1.583857027805997

@@ -1,0 +1,4 @@
+analysis_context	context_label	total_effects	raw_fdr_significant_effects	claim_ready_effects	qualified_effects	exploratory_effects	positive_claim_ready_effects	negative_claim_ready_effects	claim_ready_antigens	claim_ready_features	claim_ready_mechanistic_axes	median_absolute_claim_ready_log2_effect	maximum_absolute_claim_ready_log2_effect
+heterologous_2vHPV_recall	Heterologous 2vHPV recall	243	187	117	70	17	117	0	7	13	5	3.4761904761904763	7.458074143004342
+heterologous_bpv_control	Heterologous BPV control	44	10	0	0	0	0	0	0	0	0		
+primary_2vHPV_induction	Primary 2vHPV induction	81	41	31	10	7	31	0	7	10	5	3.750673700138944	9.639142316027357

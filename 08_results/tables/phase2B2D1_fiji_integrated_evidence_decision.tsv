@@ -1,0 +1,2 @@
+decision	integrated_effect_rows	unique_effect_ids	claim_ready_effects	qualified_effects	floor_rows_integrated	bpv_calibrated_rows_integrated	boundary_rows_integrated	mixed_direction_disagreements	maximum_mixed_raw_effect_difference	validation_failures
+READY_FOR_PHASE2B2D2_BIOLOGICAL_SYNTHESIS	368	368	148	80	148	308	4	0	1.2789769243681806e-13	

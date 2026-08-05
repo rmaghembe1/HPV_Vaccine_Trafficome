@@ -1,0 +1,10 @@
+evidence_grade	evidence_grade_label	claim_readiness	effects	antigens	features	median_absolute_log2_effect	minimum_raw_q_value
+A1_robust_bpv_calibrated	Robust and supported after BPV calibration	claim_ready	132	7	11	3.516937382367275	1.4126044431410598e-10
+A2_robust_without_bpv_calibration	Robust but BPV calibration unavailable	claim_ready	16	2	2	2.6191463919494984	5.314191828098368e-13
+B2_attenuated_after_bpv_calibration	Raw effect attenuated after BPV calibration	qualified_claim_only	52	7	11	1.6521738843909617	3.6602458748545193e-06
+B3_direction_changed_after_bpv_calibration	Effect direction changed after BPV calibration	qualified_claim_only	12	5	5	0.7748532152661185	2.3248160154149052e-05
+B4_not_supported_after_floor_sensitivity	Raw effect not supported after floor sensitivity	qualified_claim_only	16	7	5	2.365138775548295	0.0010618538738222
+C1_emerges_after_bpv_calibration	Effect emerges only after BPV calibration	exploratory_only	2	2	2	1.2975983755560403	0.0878293572842208
+C2_direction_changed_without_raw_fdr	Direction changed after calibration without raw FDR support	exploratory_only	22	5	9	0.2119042269059485	0.0645619135869641
+D1_not_fdr_significant	Not FDR-significant in the primary paired analysis	not_claim_ready	72	7	11	0.53083554885762	0.0501510253362121
+CTRL_heterologous_bpv_control	Heterologous BPV control trajectory	exploratory_only	44	1	11	0.641991941815274	0.0002698180235847
