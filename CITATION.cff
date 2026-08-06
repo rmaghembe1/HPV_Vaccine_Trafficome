@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite this computational repository and the associated source-data publications when reusing the analysis."
+title: "HPV Vaccine Trafficome: Fiji systems-serology analysis"
+type: software
+license: MIT
+authors:
+  - family-names: "Maghembe"
+    given-names: "Reuben S."
+version: "0.1.0"
+repository-code: "https://github.com/rmaghembe1/HPV_Vaccine_Trafficome"
+abstract: >-
+  Reproducible computational analysis of primary induction, long-term persistence
+  and heterologous recall in the Fiji HPV systems-serology study, including
+  antibody magnitude, subclass, Fc-receptor engagement, neutralization,
+  phagocytosis, cross-reactive breadth, functional coupling, and multivariate
+  immune-state analyses.
+keywords:
+  - "HPV vaccine"
+  - "systems serology"
+  - "neutralizing antibodies"
+  - "antibody-dependent cellular phagocytosis"
+  - "Fc receptors"
+  - "heterologous recall"
+  - "immune memory"
+  - "computational immunology"

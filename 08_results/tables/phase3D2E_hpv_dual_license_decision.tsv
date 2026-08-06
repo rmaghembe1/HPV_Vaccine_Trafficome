@@ -1,0 +1,2 @@
+decision	head_sha	branch	remote_count	tag_count	software_license	content_license	source_data_relicensed	copyright_holder	copyright_year	validation_failure_count	validation_failures
+READY_FOR_HPV_IDENTITY_PRECOMMIT_AUDIT	4c0fee0b52387e1d92efb5ec9d669399a7ceb92c	main	0	0	MIT	CC-BY-4.0	False	Reuben S. Maghembe	2026	0	NONE
